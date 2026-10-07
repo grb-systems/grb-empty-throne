@@ -1,10 +1,17 @@
 Empty Throne
+
 Qualified Unoccupied Standing
+
 Status: Development Repository / Provisional / Pre-validation
+
 Architecture: G³GT
+
 Organization: Geometric Resource Bridging (GRB)
+
 Scope: Public conceptual architecture, working definitions, failure modes, falsifiers, applications, and developmental lineage
+
 Implementation: Implementation-neutral
+
 Overview
 Empty Throne is a G³GT architectural pattern for a qualified seat that may remain unoccupied without losing standing.
 The core proposition is:
